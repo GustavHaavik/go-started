@@ -1,2 +1,4 @@
 /go.sum
 /hello
+fuzz/testdata/fuzz/FuzzReverse/98fce631eb9c5dd5
+workspaces/hello/go.sum
